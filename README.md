@@ -1,4 +1,4 @@
-# com.example.Taxi4You
+Taxi4You
 
 A new Flutter project.
 
