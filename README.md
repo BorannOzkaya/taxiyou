@@ -7,10 +7,10 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 Images from app
-![Optional Text](https://github.com/BorannOzkaya/taxiyou/blob/main/assets/images/onboard.jpg?raw=true)
-![Optional Text](https://github.com/BorannOzkaya/taxiyou/blob/main/assets/images/home.jpg?raw=true)
-![Optional Text](https://github.com/BorannOzkaya/taxiyou/blob/main/assets/images/videos.jpg?raw=true)
-![Optional Text](https://github.com/BorannOzkaya/taxiyou/blob/main/assets/images/jezztbuchen.jpg?raw=true)
+![Optional Text](https://github.com/BorannOzkaya/taxiyou/blob/main/assets/images/onboard.jpg?raw=true){:height="50%" width="50%"}
+![Optional Text](https://github.com/BorannOzkaya/taxiyou/blob/main/assets/images/home.jpg?raw=true){:height="50%" width="50%"}
+![Optional Text](https://github.com/BorannOzkaya/taxiyou/blob/main/assets/images/videos.jpg?raw=true){:height="50%" width="50%"}
+![Optional Text](https://github.com/BorannOzkaya/taxiyou/blob/main/assets/images/jezztbuchen.jpg?raw=true){:height="50%" width="50%"}
 
 For APK 
 https://drive.google.com/file/d/184RE_E46scb9HMie3sWdvEa-M38LBxlM/view?usp=sharing
