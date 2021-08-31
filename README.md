@@ -8,10 +8,10 @@ This project is a starting point for a Flutter application.
 
 Images from app
 
-<img src="https://github.com/BorannOzkaya/taxiyou/blob/main/assets/images/onboard.jpg" width="100" height="100">
-<img src="https://github.com/BorannOzkaya/taxiyou/blob/main/assets/images/home.jpg" width="100" height="100">
-<img src="https://github.com/BorannOzkaya/taxiyou/blob/main/assets/images/videos.jpg" width="100" height="100">
-<img src="https://github.com/BorannOzkaya/taxiyou/blob/main/assets/images/jezztbuchen.jpg" width="100" height="100">
+<img src="https://github.com/BorannOzkaya/taxiyou/blob/main/assets/images/onboard.jpg" width="200" height="100">
+<img src="https://github.com/BorannOzkaya/taxiyou/blob/main/assets/images/home.jpg" width="200" height="100">
+<img src="https://github.com/BorannOzkaya/taxiyou/blob/main/assets/images/videos.jpg" width="200" height="100">
+<img src="https://github.com/BorannOzkaya/taxiyou/blob/main/assets/images/jezztbuchen.jpg" width="200" height="100">
 
 
 
